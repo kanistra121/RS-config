@@ -206,7 +206,7 @@ class Config():
 
 
 def main():
-    o = r"C:\Users\Unicorn\Documents\My Games\Rising Storm 2\ROGame\Config\ROEngine.ini"
+    o = r"C:\Users\Unicorn\Desktop\python\RS config\ROEngine.ini"
     ROEngine = Config(o)
 #***********************************************************************************************************
     
